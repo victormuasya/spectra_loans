@@ -361,7 +361,7 @@
 				$this->conn->close();
 				return true;
 			} 
-		}     */
+		}     
 
 
 		public function save_payment($name,$refno,$lastname,$contact_no,$share,$email,$idno,$date,$witness,$mpesa){
@@ -408,4 +408,5 @@
 
 		
 	}
-?>
+?>     
+*/}

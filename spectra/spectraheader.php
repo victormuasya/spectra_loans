@@ -47,7 +47,7 @@
                     <span>Loans</span></a>
             </li>
 			<li class="nav-item">
-                <a class="nav-link" href="payment.php">
+                <a class="nav-link" href="home.php">
                     <i class="fas fa-fw fas fa-coins"></i>
                     <span>Payments</span></a>
             </li>
