@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "spectra_loans",
+			"path": ".."
+		},
+		{
+			"name": "spectraloans",
+			"path": "../../../../../../xampp/htdocs/myprojects/spectraloans"
+		}
+	],
+	"settings": {}
+}
